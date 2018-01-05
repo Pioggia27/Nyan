@@ -1,3 +1,1 @@
-"/"help
-"/"settings
-{"text": "This is a test"}
+nyan.say("Meow")
